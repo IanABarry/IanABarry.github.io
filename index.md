@@ -1,6 +1,6 @@
 ---
 layout: page
-title: my first post
+title: About
 ---
 
-Hello there!
+Hello there! This is my about page.
