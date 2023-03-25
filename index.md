@@ -4,8 +4,10 @@ title: Ian A. M. Barry
 ---
 
 <img src="ian.jpg"
-     width="400" 
-     height="500" />
+     alt="Ian"
+     class="center"
+     width="200" 
+     height="250" />
 
 Hello! My name is Ian. I'm a senior undergraduate student majoring in Anthropology at the University of Texas at Austin.
 
