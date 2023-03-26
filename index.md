@@ -5,17 +5,9 @@ Permalink: /home
 ---
 
 <img src="ian.jpg"
-     alt="Ian"
      class="center"
      width="200" 
      height="250" />
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 
 Hello! My name is Ian. I'm a senior undergraduate student majoring in Anthropology at the University of Texas at Austin.
 

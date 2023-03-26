@@ -4,39 +4,45 @@ title: Resume
 permalink: /resume
 ---
 
-Ian Barry
+<h2>Ian Barry</h2>
 
 <a href="linkedin.com/in/barryian/">LinkedIn</a>
-<a href=mailto:“ian.barry@utexas.edu”>Email</a>
+Email: ian.barry@utexas.edu
 
 
-EDUCATION
-The University of Texas at Austin					Graduation date: May 6, 2023
-B.A., Anthropology								           GPA: 3.99
-College of Liberal Arts Honors
-Anthropology Honors
+<h3>Education</h3>
+The University of Texas at Austin | Graduation date: May 6, 2023
+B.A., Anthropology | GPA: 3.99
+<i>College of Liberal Arts Honors</i>
+<i>Anthropology Honors</i>
 
 
-RESEARCH EXPERIENCE
+<h3>Research Experience</h3>
 
-Independent Research								August 2022 — Present
-Design a project at UT Austin concerning a novel method of extracting physiological metrics through noncontact thermal videography
-Navigate funding applications and permission requirements to work with nonhuman animals
-Collect field data with semi-free ranging pigs at Central Texas Pig Rescue
-Process, organize, and present data in MatLab and R
+<b>Independent Research | August 2022 — Present</b>
+<ul>
+	<li>Design a project at UT Austin concerning a novel method of extracting physiological metrics through noncontact thermal videography</li>
+	<li>Navigate funding applications and permission requirements to work with nonhuman animals</li>
+	<li>Collect field data with semi-free ranging pigs at Central Texas Pig Rescue</li>
+	<li>Process, organize, and present data in MatLab and R</li>
+</ul>
 
-Primate Ethology and Endocrinology Lab						   May 2022 — Present
-Use prior lab experience to shape the analytical priorities of a new UT Austin lab
-Assist faculty advisors and graduate students with miscellaneous research tasks
-Present a poster showcasing a semantic review of primate social bonds at the Texas Association of Biological Anthropologists (TABA) annual symposium (November 2022)
+<b>Primate Ethology and Endocrinology Lab | May 2022 — Present</b>
+<ul>
+	<li>Use prior lab experience to shape the analytical priorities of a new UT Austin lab</li>
+	<li>Assist faculty advisors and graduate students with miscellaneous research tasks</li>
+	<li>Present a poster showcasing a semantic review of primate social bonds at the Texas Association of Biological Anthropologists (TABA) annual symposium (November 2022)</li>
+</ul>
 
-Nonhuman Primate Locomotion Lab						         March 2022 — Present
-Identify wild cercopithecoid walking strides on elevated substrates from videos
-Use MatLab photogrammetric applications to clip videos and code kinematic information
-Assist with the creation of an open-source database of primate gait kinematic information
+<b>Nonhuman Primate Locomotion Lab | March 2022 — Present</b>
+<ul>
+	<li>Identify wild cercopithecoid walking strides on elevated substrates from videos</li>
+	<li>Use MatLab photogrammetric applications to clip videos and code kinematic information</li>
+	<li>Assist with the creation of an open-source database of primate gait kinematic information</li>
+</ul>
 
 
-PRESENTATIONS & PUBLICATIONS
+<h3>Presentations and Publications</h3>
 
 Sandel, A. A., Stetson, N., Barry, I., Rodelas Tokun Haga, D. A., Clark, I. R., Derby, R. N., Noromalala, E., Bueno, G. L., Rettke, S., Asianazu, B., van Boekholt, B., Van Kuijk, S. M., Kalunga, D., Kamugyisha, B., Kanweri, D., Zeosky, M., Clark, K., Clark, Y. (2022). A multilingual reflection on “friendship” in humans and other primates. Poster presentation at the Texas Association of Biological Anthropologists meeting. Austin, TX.
 
@@ -46,45 +52,53 @@ Shapiro, L. J., Myers, L. C., Janisch, J., Schapker, N., Barry, I., Phelps, T., 
 
 
 
-MUSEUM EXPERIENCE
+<h3>Museum Experience</h3>
 
-Texas Maritime Museum								  June 2022 — Present
-Collections, Restoration, & Administration Intern
-Apply French reading skills to trace the location of a painting relevant to artifacts housed at the museum
-Curate new interactive exhibits for regional maritime history between 1500 and 1700
-Collaborate with archaeologists and historians to contextualize restored materials for a public audience
-Catalogue donated books for the museum’s maritime history library
-Facilitate community outreach events including festivals, book signings, and exhibit debut galas
+<b>Texas Maritime Museum | June 2022 — Present</b>
+<i>Collections, Restoration, & Administration Intern</i>
+<ul>
+	<li>Apply French reading skills to trace the location of a painting relevant to artifacts housed at the museum</li>
+	<li>Curate new interactive exhibits for regional maritime history between 1500 and 1700</li>
+	<li>Collaborate with archaeologists and historians to contextualize restored materials for a public audience</li>
+	<li>Catalogue donated books for the museum’s maritime history library</li>
+	<li>Facilitate community outreach events including festivals, book signings, and exhibit debut galas</li>
+</ul>
 
-Hoccleve Archive								August 2021 — Present
-Digital Archivist
-Digitize and organize microfilm reels of Middle English poetry
-Communicate the importance of the digital humanities to prospective undergraduate assistants
-Model microfilm scanning for new undergraduate researchers
-Navigate Python and GitHub to integrate scanned material into an accessible digital repository
+<b>The Hoccleve Archive | August 2021 — Present </b>
+<i>Digital Archivist</i>
+<ul>
+	<li>Digitize and organize microfilm reels of Middle English poetry</li>
+	<li>Communicate the importance of the digital humanities to prospective undergraduate assistants</li>
+	<li>Model microfilm scanning for new undergraduate researchers</li>
+	<li>Navigate Python and GitHub to integrate scanned material into an accessible digital repository</li>
+</ul>
 
-Bullock Texas State History Museum							February 2020
-Education & Outreach Intern
-Collaborated with the School Programs Head to host four educational events for young children
-Contributed to planning for a summer film showcase series
-Observed the responsibilities of museum coordinators and curators
+<b>Bullock Texas State History Museum | February 2020</b>
+<i>Education & Outreach Intern</i>
+<ul>
+	<li>Collaborated with the School Programs Head to host four educational events for young children</li>
+	<li>Contributed to planning for a summer film showcase series</li>
+	<li>Observed the responsibilities of museum coordinators and curators</li>
+</ul>
 
-The Williamson Museum							    September 2019 — May 2021
-Education Volunteer
-Hosted weekend family-friendly educational activities to teach children about regional history
-Catalogued and described incoming artifacts for the museum’s collection
-Integrated regional history into temporary themed exhibits
-
-
-HONORS & AWARDS
-
-Jefferson Scholars: A selective academic track in global philosophy and religion with regular student-led cultural excursions for which participants were reimbursed by the university.
-
-Biodiversity Scholars: An academic enrichment program intended to increase diversity within the biological sciences. As an applicant selected for this program, I received a stipend to support my participation in a field biology course at UT and worked closely with a graduate student mentor to explore careers in anthropology.
+<b>The Williamson Museum | September 2019 — May 2021 </b>
+<i>Education & Outreach Volunteer</i>
+<ul>
+	<li>Hosted weekend family-friendly educational activities to teach children about regional history</li>
+	<li>Catalogued and described incoming artifacts for the museum’s collection</li>
+	<li>Integrated regional history into temporary themed exhibits</li>
+</ul>
 
 
-SKILLS
+<h3>Honors & Awards</h3>
 
-Programming: Python | MatLab | R | PastPerfect
+<b>Jefferson Scholars:</b> A selective academic track in global philosophy and religion with regular student-led cultural excursions for which participants were reimbursed by the university.
 
-Lab experience: Hair cortisol extraction | Photogrammetry for gait kinematics | Plant population dispersal and tree size field measurements | Archival digitization and cataloguing | Scientific writing | Field data collection with nonhuman animals
+<b>Biodiversity Scholars:</b> An academic enrichment program intended to increase diversity within the biological sciences. As an applicant selected for this program, I received a stipend to support my participation in a field biology course at UT and worked closely with a graduate student mentor to explore careers in anthropology.
+
+
+<h3>Skills</h3>
+
+<b>Programming:</b> Python | MatLab | R | PastPerfect
+
+<b>Lab experience:</b> Hair cortisol extraction | Photogrammetry for gait kinematics | Plant population dispersal and tree size field measurements | Archival digitization and cataloguing | Scientific writing | Field data collection with nonhuman animals
