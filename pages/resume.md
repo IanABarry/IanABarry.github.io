@@ -6,8 +6,8 @@ permalink: /resume
 
 <h2>Ian Barry</h2>
 
-<a href="linkedin.com/in/barryian/">LinkedIn</a>
-Email: ian.barry@utexas.edu
+<b>LinkedIn:</b> linkedin.com/in/barryian/
+<b>Email:</b> ian.barry@utexas.edu
 
 
 <h3>Education</h3>
@@ -99,6 +99,20 @@ Shapiro, L. J., Myers, L. C., Janisch, J., Schapker, N., Barry, I., Phelps, T., 
 
 <h3>Skills</h3>
 
-<b>Programming:</b> Python | MatLab | R | PastPerfect
+<b>Programming:</b>
+<ul>
+	<li>Python</li>
+	<li>MatLab</li>
+	<li>R</li>
+	<li>PastPerfect</li>
+</ul>
 
-<b>Lab experience:</b> Hair cortisol extraction | Photogrammetry for gait kinematics | Plant population dispersal and tree size field measurements | Archival digitization and cataloguing | Scientific writing | Field data collection with nonhuman animals
+<b>Lab experience:</b>
+<ul>
+	<li>Hair cortisol extraction</li>
+	<li>Photogrammetry for gait kinematics</li>
+	<li>Plant population dispersal and tree size field measurements</li>
+	<li>Archival digitization and cataloguing</li>
+	<li>Scientific writing</li>
+	<li>Field data collection with nonhuman animals</li>
+</ul>
