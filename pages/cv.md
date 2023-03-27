@@ -27,7 +27,8 @@ B.A., Anthropology
 	<li>Primate Social Behavior</li>
 	<li>Sex Violence Power</li>
 	<li>Primate Anatomy</li>
-	<li>Human Origins and Evolution, Primate Evolution (audited)</li>
+	<li>Human Origins and Evolution</li>
+	<li>Primate Evolution (audited)</li>
 </ul>
 
 <h4>Relevant Graduate Coursework:</h4>
@@ -39,11 +40,11 @@ B.A., Anthropology
 <h3>Research Experience</h3>
 <b>Independent Research</b> | <i>Aug. 2022 — Present</i>
 
-<p>Design and implement a project investigating a novel method of extracting mammalian physiological data through noncontact thermal videography. Collect data from semi-free-ranging pigs at a rescue in central Texas and clean, organize, and present data using MatLab and R.</p>
+<br>Design and implement a project investigating a novel method of extracting mammalian physiological data through noncontact thermal videography. Collect data from semi-free-ranging pigs at a rescue in central Texas and clean, organize, and present data using MatLab and R.
 
 <br><b>Primate Ethology and Endocrinology Lab</b> | <i>May 2022 — Present</i>
 
-<p>Use prior wet and dry lab experience to shape the analytical priorities of a new lab at UT Austin. Help faculty advisors, undergraduate researchers, and graduate students with assorted research and training tasks. Provide assessments of cutting-edge technology for the lab’s consideration.</p>
+<br>Use prior wet and dry lab experience to shape the analytical priorities of a new lab at UT Austin. Help faculty advisors, undergraduate researchers, and graduate students with assorted research and training tasks. Provide assessments of cutting-edge technology for the lab’s consideration.
 
 <br><b>Nonhuman Primate Locomotion Lab</b> | <i>Mar. 2022 — Present</i>
 
