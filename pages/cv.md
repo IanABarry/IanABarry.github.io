@@ -44,12 +44,12 @@ permalink: /cv
 <b>Independent Research</b>
 <br><i>Aug. 2022 — Present</I>
 
-<br>Design and implement a project investigating a novel method of extracting mammalian physiological data through noncontact thermal videography. Collect data from semi-free-ranging pigs at a rescue in central Texas and clean, organize, and present data using MatLab and R.
+<p>Design and implement a project investigating a novel method of extracting mammalian physiological data through noncontact thermal videography. Collect data from semi-free-ranging pigs at a rescue in central Texas and clean, organize, and present data using MatLab and R.</p>
 
 <br><b>Primate Ethology and Endocrinology Lab</b>
 <br><i>May 2022 — Present</i>
 
-<br>Use prior wet and dry lab experience to shape the analytical priorities of a new lab at UT Austin. Help faculty advisors, undergraduate researchers, and graduate students with assorted research and training tasks. Provide assessments of cutting-edge technology for the lab’s consideration.
+<p>Use prior wet and dry lab experience to shape the analytical priorities of a new lab at UT Austin. Help faculty advisors, undergraduate researchers, and graduate students with assorted research and training tasks. Provide assessments of cutting-edge technology for the lab’s consideration.</p>
 
 <br><b>Nonhuman Primate Locomotion Lab</b>
 <br><i>Mar. 2022 — Present</i>
@@ -70,7 +70,7 @@ permalink: /cv
 <br>
 <h3>Presentations & Publications</h3>
 
-<br>Barry, I. (2023). A whale of a tale: Using R to interactively visualize American offshore whaling voyages. Podium presentation at the University of Texas at Austin Day of Digital Humanities symposium. Austin, TX.
+Barry, I. (2023). A whale of a tale: Using R to interactively visualize American offshore whaling voyages. Podium presentation at the University of Texas at Austin Day of Digital Humanities symposium. Austin, TX.
 
 <br>Sandel, A. A., Stetson, N., Barry, I., Rodelas Tokun Haga, D. A., Clark, I. R., Derby, R. N., Noromalala, E., Bueno, G. L., Rettke, S., Asianazu, B., van Boekholt, B., Van Kuijk, S. M., Kalunga, D., Kamugyisha, B., Kanweri, D., Zeosky, M., Clark, K., Clark, Y. (2022). A multilingual reflection on “friendship” in humans and other primates. Poster presentation at the Texas Association of Biological Anthropologists meeting. Austin, TX.
 
