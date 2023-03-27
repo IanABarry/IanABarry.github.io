@@ -13,7 +13,8 @@ permalink: /cv
 
 [description of me and my interests]
 
-
+<br>
+<br>
 <h3>Education</h3>
 
 <b>The University of Texas at Austin</b>, <i>Aug. 2020 — May 2023</i>
@@ -37,6 +38,8 @@ permalink: /cv
 	<li>Ape Relationships (audited)</li>
 </ul>
 
+<br>
+<br>
 <h3>Research Experience</h3>
 <b>Independent Research</b>
 <br><i>Aug. 2022 — Present</I>
@@ -63,6 +66,8 @@ permalink: /cv
 
 <p>Shadowed hair and salivary cortisol extraction procedures. Helped lab managers run calculations and monitor additional ongoing lab procedures. Verified data obtained from lab procedures.</p>
 
+<br>
+<br>
 <h3>Presentations & Publications</h3>
 
 <br>Barry, I. (2023). A whale of a tale: Using R to interactively visualize American offshore whaling voyages. Podium presentation at the University of Texas at Austin Day of Digital Humanities symposium. Austin, TX.
@@ -73,6 +78,8 @@ permalink: /cv
 
 <br>Shapiro, L. J., Myers, L. C., Janisch, J., Schapker, N., Barry, I., Phelps, T., Hieronymus, T., & Young, J. W. (2023). Gait kinematics in response to substrate diameter and orientation in wild cercopithecoids. Poster presentation at the Annual Meeting of the American Association of Biological Anthropologists. Reno, NV.
 
+<br>
+<br>
 <h3>Professional Experience</h3>
 
 <b>Texas Maritime Museum Intern</b>
@@ -80,46 +87,52 @@ permalink: /cv
 
 <p>Curate interactive exhibits showcasing state maritime history between 1500 and 1700. Collaborate with archaeologists, historians, and artists to contextualize restored materials for a public audience. Use PastPerfect cataloguing software to register books for the museum’s maritime history library. Facilitate community outreach events including festivals, book signings, and exhibit debut galas.</p>
 
-<b>Kins Dining Student Assistant</b>
+<br><b>Kins Dining Student Assistant</b>
 <br><i>Oct. 2021 — May 2022</i>
 
 <p>Served food to thousands of UT Austin students each day in a campus dining hall. Helped run gratuitous dining hall events for students during finals weeks. Trained new staff members to create an uplifting and welcoming environment for the UT community.</p>
 
-<b>The Williamson Museum Volunteer</b>
+<br><b>The Williamson Museum Volunteer</b>
 <br><i>September 2019 — May 2021</i>
 
 <p>Hosted weekly family-friendly educational activities to teach children about regional history. Catalogued and described incoming artifacts for the museum’s collection. Provided background research for temporary exhibits.</p>
 
-<b>Bullock Texas State History Museum Intern</b>
+<br><b>Bullock Texas State History Museum Intern</b>
 <br><i>February 2020</i>
 
 <p>Collaborated with the School Programs Head to host four educational events for young children. Contributed to planning for an immersive summer film showcase series. Observed the responsibilities of museum coordinators and curators.</p>
 
+<br>
+<br>
 <h3>Academic Service</h3>
 
 <b>Ecology, Evolution, and Behavior Club</b>
 <br><i>Jan. 2023 — Present</i>
 
-<b>Texas Student Digital Humanities</b>
+<br><b>Texas Student Digital Humanities</b>
 <br><i>Aug. 2022 — Present</i>
 
 <p>Collaborate with students in humanities departments to apply new coding skills to ongoing projects. Channel personal interests into coding projects that emphasize interactivity and accessibility of information on humanities topics.</p>
 
-<b>Liberal Arts Honors Student Mentor</b>
+<br><b>Liberal Arts Honors Student Mentor</b>
 <br><i>Aug. 2021 — May 2022</i>	
 
 <p>Helped five students in the college honors program navigate UT Austin’s campus and celebrate their queer identities. Connected each student with resources to enhance their studying habits and channel their unique passions into impactful collaborative action.</p>
 
+<br>
 <b>Liberal Arts Honors Student Council</b>
 <br><i>Sept. 2020 — May 2022</i>
 
 <p>Represented 135 students in a college honors program. Hosted virtual events for students to attend and facilitated communication between the student body and program administrators. Collaborated with other representatives to offer students financial aid programs. Paired incoming students with peer mentors to ease their transition to college.</p>
 
+<br>
 <b>UT Austin Student Government Legislator</b>
 <br><i>Sept. 2020 — May 2021</i>
 
 <p>Collaborated with Student Government agencies to draft legislation addressing mental health concerns on campus at the height of the COVID-19 pandemic. Created safe virtual spaces for UT affiliates to share their mental health experiences with others. Compiled and distributed a detailed guidebook of accessible mental health resources to the student body.</p>
 
+<br>
+<br>
 <h3>Honors & Awards</h3>
 
 <b>Scholarships & Programs</b>
@@ -129,5 +142,5 @@ permalink: /cv
 
 <br><i>Rapoport-King Thesis Scholar:</i> I received funding from the College of Liberal Arts to cover all expenses associated with my undergraduate thesis in the Anthropology Honors program. Additionally, my advisor received a stipend to further ethological research in the Department of Anthropology.
 
-<b>Distinctions</b>
+<br><b>Distinctions</b>
 <br>July 2022 — Ampla cum laude, Dean’s Honor List
