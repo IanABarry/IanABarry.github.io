@@ -7,9 +7,9 @@ permalink: /cv
 <h4><i>Biological Anthropologist</i></h4>
 
 <h3>Contact Information</h3>
-<b>Phone:</b> 1-512-296-9244
-<b>Email:</b> ian.barry@utexas.edu
-<b>LinkedIn:</b> linkedin.com/in/barryian/
+<br><b>Phone:</b> 1-512-296-9244
+<br><b>Email:</b> ian.barry@utexas.edu
+<br><b>LinkedIn:</b> linkedin.com/in/barryian/
 
 [description of me and my interests]
 
@@ -17,16 +17,33 @@ permalink: /cv
 <h3>Education</h3>
 
 <pre>
-Aug. 2020 — May 2023			The University of Texas at Austin
+Aug. 2020 — May 2023		The University of Texas at Austin
 							B.A., Anthropology
 							College of Liberal Arts Honors
 							Anthropology Honors
 </pre>
 
-Relevant coursework: Field Biology, Primate Social Behavior, Sex Violence Power, Biological Anthropology: Behavior/Genetics/Variation, Primate Anatomy, Human Origins and Evolution, Primate Evolution (audited)
+<h4>Relevant Undergraduate Coursework:</h4>
+<pre>
+<ul>
+	<li>Field Biology</li>
+	<li>Primate Social Behavior</li>
+	<li>Sex Violence Power</li>
+	<li>Primate Anatomy</li>
+	<li>Human Origins and Evolution, Primate Evolution (audited)</li>
+</ul>
+</pre>
 
-Research Experience
+<h4>Relevant Graduate Coursework:</h4>
+<pre>
+<ul>
+	<li>Biological Anthropology: Behavior/Genetics/Variation</li>
+	<li>Ape Relationships (audited)</li>
+</ul>
+</pre>
 
+<h3>Research Experience</h3>
+<pre>
 Aug. 2022 — Present				Independent Research
 
 Design and implement a project investigating a novel method of extracting mammalian physiological data through noncontact thermal videography. Collect data from semi-free-ranging pigs at a rescue in central Texas and clean, organize, and present data using MatLab and R.
@@ -46,6 +63,7 @@ Digitize microfilm images of Middle English poetry. Use Python APIs to integrate
 July 2022 — Aug. 2022			Epigenetics, Neuroscience, and Development Lab
 
 Shadowed hair and salivary cortisol extraction procedures. Helped lab managers run calculations and monitor additional ongoing lab procedures. Verified data obtained from lab procedures.
+</pre>
 
 Presentations & Publications
 

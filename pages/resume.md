@@ -7,14 +7,16 @@ permalink: /resume
 <h2>Ian Barry</h2>
 
 <b>LinkedIn:</b> linkedin.com/in/barryian/
-<b>Email:</b> ian.barry@utexas.edu
+<br><b>Email:</b> ian.barry@utexas.edu
 
 
 <h3>Education</h3>
-The University of Texas at Austin | Graduation date: May 6, 2023
-B.A., Anthropology | GPA: 3.99
-<i>College of Liberal Arts Honors</i>
-<i>Anthropology Honors</i>
+The University of Texas at Austin
+<br>Graduation date: May 2023
+<br>B.A., Anthropology
+<br>GPA: 3.99
+<br><i>College of Liberal Arts Honors</i>
+<br><i>Anthropology Honors</i>
 
 
 <h3>Research Experience</h3>
