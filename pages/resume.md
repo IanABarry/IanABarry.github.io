@@ -3,6 +3,7 @@ layout: page
 title: Resume
 permalink: /resume
 ---
+<body style="background-color:LightCyan;">
 
 <h2>Ian Barry</h2>
 

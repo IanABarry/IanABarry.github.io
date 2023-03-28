@@ -3,8 +3,9 @@ layout: page
 title: Ian A. M. Barry
 Permalink: /home
 ---
+<body style="background-color:LightCyan;">
 
-<img src="ian.jpg"
+<img src="IanCircle.jpg"
      class="center"
      width="200" 
      height="250" />

@@ -3,6 +3,8 @@ layout: page
 title: CV
 permalink: /cv
 ---
+<body style="background-color:LightCyan;">
+
 <h2>Ian Aleister MacCoinnich Barry</h2>
 <h4><i>Biological Anthropologist</i></h4>
 
