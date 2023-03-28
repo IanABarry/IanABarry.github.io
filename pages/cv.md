@@ -5,7 +5,7 @@ permalink: /cv
 ---
 <body style="background-color:LightCyan;">
 
-<h2>Ian Aleister MacCoinnich Barry</h2>
+<h2>Ian Barry</h2>
 <h4><i>Biological Anthropologist</i></h4>
 
 <h3>Contact Information</h3>
@@ -13,6 +13,7 @@ permalink: /cv
 <br><b>Email:</b> ian.barry@utexas.edu
 <br><b>LinkedIn:</b> linkedin.com/in/barryian/
 
+<br>
 <br><p>Senior undergraduate student at the University of Texas at Austin interested in using a humanistic approach to protect biodiversity. Proponent of accessibility and intercultural competency in educational outreach for history and science.</p>
 
 <br>

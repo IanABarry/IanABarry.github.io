@@ -10,7 +10,7 @@ permalink: /resume
 <b>LinkedIn:</b> linkedin.com/in/barryian/
 <br><b>Email:</b> ian.barry@utexas.edu
 
-
+<br>
 <h3>Education</h3>
 <b>The University of Texas at Austin</b>
 <br>Graduation date: May 2023
@@ -49,8 +49,10 @@ permalink: /resume
 
 Sandel, A. A., Stetson, N., Barry, I., Rodelas Tokun Haga, D. A., Clark, I. R., Derby, R. N., Noromalala, E., Bueno, G. L., Rettke, S., Asianazu, B., van Boekholt, B., Van Kuijk, S. M., Kalunga, D., Kamugyisha, B., Kanweri, D., Zeosky, M., Clark, K., Clark, Y. (2022). A multilingual reflection on “friendship” in humans and other primates. Poster presentation at the Texas Association of Biological Anthropologists meeting. Austin, TX.
 
+<br>
 <br>Schapker, N., Hottensmith, A., Janisch, J., Myers, L. C., Phelps, T., Barry, I., Shapiro, L. J., & Young, J. W. (2023). Effects of height in the canopy on gait mechanics in wild lemurs. Poster presentation at the Annual Meeting of the American Association of Biological Anthropologists. Reno, NV.
 
+<br>
 <br>Shapiro, L. J., Myers, L. C., Janisch, J., Schapker, N., Barry, I., Phelps, T., Hieronymus, T., & Young, J. W. (2023). Gait kinematics in response to substrate diameter and orientation in wild cercopithecoids. Poster presentation at the Annual Meeting of the American Association of Biological Anthropologists. Reno, NV.
 
 <br>
@@ -96,6 +98,7 @@ Sandel, A. A., Stetson, N., Barry, I., Rodelas Tokun Haga, D. A., Clark, I. R., 
 
 <b>Jefferson Scholars:</b> A selective academic track in global philosophy and religion with regular student-led cultural excursions for which participants were reimbursed by the university.
 
+<br>
 <br><b>Biodiversity Scholars:</b> An academic enrichment program intended to increase diversity within the biological sciences. As an applicant selected for this program, I received a stipend to support my participation in a field biology course at UT and worked closely with a graduate student mentor to explore careers in anthropology.
 
 <br>

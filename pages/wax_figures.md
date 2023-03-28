@@ -11,7 +11,7 @@ permalink: /wax_figures
 <br><img src="sue_rees.jpg"
      width="500" 
      height="400" />
-<br>Left to right: Sue Rees, Dr. Justin Parkoff, Sam Watson, Tom York, and myself in front of the restored wax figures at a gala held to honor Ms. Rees' work (February 2023).
+<br><i>Left to right: Sue Rees, Dr. Justin Parkoff, Sam Watson, Tom York, and myself in front of the restored wax figures at a gala held to honor Ms. Rees' work (February 2023).</i>
 
 <br>
 <br><p>The gravity of the moment Ms. Rees saw her sculptures again wasn't lost on me. When I had first been invited to clean her sculptures in preparation for restoration, I never imagined we would reconnect with the artist who created them. Ms. Rees passed her 100th birthday in winter 2022. It was a privilege to be present when she was reconnected with her work.</p>
@@ -31,13 +31,13 @@ permalink: /wax_figures
 <br><i>The base of the same wax figure following phosphoric acid treatment and the application of new paint. At this point in the process, supporting foam was being shaped around her feet.</i>
 
 <br><img src="bob_cleaned.jpg"
-     width="200" 
-     height="250" />
+     width="250" 
+     height="200" />
 <br><i>The base of a second wax figure following phosphoric acid treatment and the application of fresh paint.</i>
 
 <br><img src="bob_support.jpeg"
-     width="200" 
-     height="250" />
+     width="250" 
+     height="200" />
 <br><i>The base of the same wax figure in the middle of the process of shaping supporting foam underneath his feet.</i>
 
 <br>
