@@ -13,7 +13,7 @@ permalink: /cv
 <br><b>Email:</b> ian.barry@utexas.edu
 <br><b>LinkedIn:</b> linkedin.com/in/barryian/
 
-Senior undergraduate student at the University of Texas at Austin interested in using a humanistic approach to protect biodiversity. Proponent of accessibility and intercultural competency in educational outreach for history and science.
+<br><p>Senior undergraduate student at the University of Texas at Austin interested in using a humanistic approach to protect biodiversity. Proponent of accessibility and intercultural competency in educational outreach for history and science.</p>
 
 <br>
 <h3>Education</h3>
@@ -73,10 +73,13 @@ Senior undergraduate student at the University of Texas at Austin interested in 
 
 Barry, I. (2023). A whale of a tale: Using R to interactively visualize American offshore whaling voyages. Podium presentation at the University of Texas at Austin Day of Digital Humanities symposium. Austin, TX.
 
+<br>
 <br>Sandel, A. A., Stetson, N., Barry, I., Rodelas Tokun Haga, D. A., Clark, I. R., Derby, R. N., Noromalala, E., Bueno, G. L., Rettke, S., Asianazu, B., van Boekholt, B., Van Kuijk, S. M., Kalunga, D., Kamugyisha, B., Kanweri, D., Zeosky, M., Clark, K., Clark, Y. (2022). A multilingual reflection on “friendship” in humans and other primates. Poster presentation at the Texas Association of Biological Anthropologists meeting. Austin, TX.
 
+<br>
 <br>Schapker, N., Hottensmith, A., Janisch, J., Myers, L. C., Phelps, T., Barry, I., Shapiro, L. J., & Young, J. W. (2023). Effects of height in the canopy on gait mechanics in wild lemurs. Poster presentation at the Annual Meeting of the American Association of Biological Anthropologists. Reno, NV.
 
+<br>
 <br>Shapiro, L. J., Myers, L. C., Janisch, J., Schapker, N., Barry, I., Phelps, T., Hieronymus, T., & Young, J. W. (2023). Gait kinematics in response to substrate diameter and orientation in wild cercopithecoids. Poster presentation at the Annual Meeting of the American Association of Biological Anthropologists. Reno, NV.
 
 <br>
@@ -110,6 +113,7 @@ Barry, I. (2023). A whale of a tale: Using R to interactively visualize American
 <b>Ecology, Evolution, and Behavior Club</b>
 <br><i>Jan. 2023 — Present</i>
 
+<br>
 <br><b>Texas Student Digital Humanities</b>
 <br><i>Aug. 2022 — Present</i>
 
@@ -139,9 +143,12 @@ Barry, I. (2023). A whale of a tale: Using R to interactively visualize American
 <b>Scholarships & Programs</b>
 <br><i>Jefferson Scholars:</i> A selective academic track in global philosophy and religion with regular student-led cultural excursions for which participants were reimbursed by the university.
 
+<br>
 <br><i>Biodiversity Scholars:</i> An academic enrichment program intended to increase diversity within the biological sciences. As an applicant selected for this program, I received a stipend to support my participation in a field biology course at UT and worked closely with a graduate student mentor to explore careers in anthropology.
 
+<br>
 <br><i>Rapoport-King Thesis Scholar:</i> I received funding from the College of Liberal Arts to cover all expenses associated with my undergraduate thesis in the Anthropology Honors program. Additionally, my advisor received a stipend to further ethological research in the Department of Anthropology.
 
+<br>
 <br><b>Distinctions</b>
 <br>July 2022 — Ampla cum laude, Dean’s Honor List

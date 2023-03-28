@@ -9,8 +9,8 @@ permalink: /wax_figures
 
 <br>
 <br><img src="sue_rees.jpg"
-     width="200" 
-     height="250" />
+     width="500" 
+     height="400" />
 <br>Left to right: Sue Rees, Dr. Justin Parkoff, Sam Watson, Tom York, and myself in front of the restored wax figures at a gala held to honor Ms. Rees' work (February 2023).
 
 <br>
@@ -23,29 +23,27 @@ permalink: /wax_figures
 <br><img src="lucy_before.jpg"
      width="200" 
      height="250" />
-<br>One wax figure after melted wax had been scraped from her base.
+<br><i>One wax figure after melted wax had been scraped from her base.</i>
 
 <br><img src="lucy_after.jpeg"
      width="200" 
      height="250" />
-<br>The base of the same wax figure following phosphoric acid treatment and the application of new paint. At this point in the process, supporting foam was being shaped around her feet.
+<br><i>The base of the same wax figure following phosphoric acid treatment and the application of new paint. At this point in the process, supporting foam was being shaped around her feet.</i>
 
-<br>
 <br><img src="bob_cleaned.jpg"
      width="200" 
      height="250" />
-<br>The base of a second wax figure following phosphoric acid treatment and the application of fresh paint.
+<br><i>The base of a second wax figure following phosphoric acid treatment and the application of fresh paint.</i>
 
 <br><img src="bob_support.jpeg"
      width="200" 
      height="250" />
-<br>The base of the same wax figure in the middle of the process of shaping supporting foam underneath his feet.
+<br><i>The base of the same wax figure in the middle of the process of shaping supporting foam underneath his feet.</i>
 
 <br>
 <br><p>This restoration work is part of an ongoing project that engages Texas citizens in re-humanizing the history of the Texas coast. As outreach for this project expands, more cultural, historical, and archaeological perspectives are emerging that challenge the dominant historical narrative endorsed by the state of Texas.</p>
 
-<br>
 <br><img src="wax_family.jpeg"
-     width="200" 
-     height="250" />
-<br>All three wax figures as they appeared at the Texas Maritime Museum's February 2023 gala. Archaeologists and artists are collaborating with the museum to ensure that they reflect the history of the Karankawa people with dignity and engage the public on contemporary issues relevant to the welfare of Indigenous peoples of the Texas coast.
+     width="400" 
+     height="500" />
+<br><i>All three wax figures as they appeared at the Texas Maritime Museum's February 2023 gala. Archaeologists and artists are collaborating with the museum to ensure that they reflect the history of the Karankawa people with dignity and engage the public on contemporary issues relevant to the welfare of Indigenous peoples of the Texas coast.</i>
