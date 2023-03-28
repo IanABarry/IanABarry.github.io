@@ -11,4 +11,4 @@ permalink: /projects
 
 <br><b><a href="/wax_figures">It Took a Village: Wax Figure Restoration and Community Engagement</a></b>
 
-<br><b><a href="1554_project"1554 Shipwrecks</a></b>
+<br><b><a href="1554_project">1554 Shipwrecks</a></b>
