@@ -10,4 +10,7 @@ permalink: /projects
 
 <br><b><a href="/wax_figures">It Took a Village: Wax Figure Restoration and Community Engagement</a></b>
 
-<br><b><a href="1554_project">1554 Shipwrecks</a></b>
+<br><b><a href="/obair_shnaidhme">Endangered Species as Obair-Shnaidhme: Connecting Culture and Nature Through Art</a></b>
+<p>Obair-shnaidhme</i> is a somewhat literal translation of "knotwork" from English to Scottish Gaelic. In conjunction with a creative project for the UT Austin College of Liberal Arts Honors program, I challenged myself to represent 8 endangered species in this traditional art form using supplies I had on hand. I showcased these pieces in an interactive presentation.</p>
+
+<br><b><a href="/1554_project">1554 Shipwrecks</a></b>
