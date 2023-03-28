@@ -14,7 +14,6 @@ permalink: /cv
 Senior undergraduate student at the University of Texas at Austin interested in using a humanistic approach to protect biodiversity. Proponent of accessibility and intercultural competency in educational outreach for history and science.
 
 <br>
-<br>
 <h3>Education</h3>
 
 <b>The University of Texas at Austin</b>, <i>Aug. 2020 — May 2023</i>
