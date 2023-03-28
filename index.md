@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ian A. M. Barry
-permalink: /home
 ---
 <body style="background-color:LightCyan;">
 
