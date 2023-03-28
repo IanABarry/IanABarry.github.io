@@ -3,8 +3,7 @@ layout: page
 title: Projects
 permalink: /projects
 ---
-
-<h2>Projects</h2>
+<body style="background-color:khaki;">
 
 <br><b><a href="/whaling_voyages">A Whale of a Tale: Using R to Interactively Visualize American Offshore Whaling Voyages</a></b>
 <p>This ongoing independent project explores how whaling voyages can be plotted on a contemporary world map with interactive tools to encourage public engagement. I am using the R programming language to merge, clean, and spatially visualize 3 databases containing different details about offshore whaling voyages between the 18th and 20th centuries.</p>
