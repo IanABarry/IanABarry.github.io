@@ -78,6 +78,7 @@ permalink: /social_bonds_paper
 <h4>Conclusion</h4>
 <p>Friendship is a blunt tool for analyzing the complexities of relationships. We may be missing important aspects of primate behavior and relationships by using a term such as friendship, which is so variably understood. Indeed, we may also make it more difficult to communicate and collaborate if our colleagues and collaborators from different cultures have trouble making sense of the words we use. Only when we understand relationships in our own lives can we accurately describe relationships in other animals.</p>
 
-<br><h4>Acknowledgements</h4>
+<br>
+<h4>Acknowledgements</h4>
 <i>We thank Kamugyisha Brian, Diana Kanweri, Asianazu Blessing, Kalunga Davis, Silvy van Kuijk, Bas van Boekholt, Michael Zeosky, Sofian Merabet, Yoko Clark, Ken Clark, and other generous collaborators for making this comparison of friendship across languages possible.</i>
 
